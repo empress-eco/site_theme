@@ -1,10 +1,14 @@
 <div align="center">
-![Project Logo](https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png<br/>
-</div>
+
+<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
+
 
 Site Theme is a comprehensive, ready-to-use theme solution designed for developers and organizations aiming to enhance their web applications with a polished, professional look. 
 
 For more information, please visit our [website](https://empress.eco/). For support, feature requests, or to report bugs, please utilize our [support page](https://grow.empress.eco/).
+
+</div>
+
 
 ## About The Project
 Site Theme is a user-friendly, ready-to-use theme solution designed to elevate web applications. Suitable for developers of all levels and organizations of all sizes, this theme is an ideal choice for those seeking to enhance their web presence with a polished, professional look.
